@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammad20120&exclude_repo=TrafficSigns_Classification_Practice&theme=tokyonight)
 
-![Hammad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hammad20120&v=2&theme=tokyonight)
-
 
 **Languages and Tools:**  
 
