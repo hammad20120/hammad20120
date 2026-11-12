@@ -1,39 +1,28 @@
-<!-- ### Hi there 👋 -->
+## Hi, I'm Hammad 👋
 
-<!--
-**hammad20120/hammad20120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working mostly with **Go** and **TypeScript**. I like building small, focused tools that people actually use.
 
-Here are some ideas to get you started:
+### 🔋 Featured project: [PodBattery](https://github.com/hammad20120/PodBattery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A free, open-source Windows tray app that shows your AirPods battery (left, right and case). It's one ~30 KB exe with no installer and no network access.
+
+[![Stars](https://img.shields.io/github/stars/hammad20120/PodBattery?style=flat&label=stars)](https://github.com/hammad20120/PodBattery/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/hammad20120/PodBattery/total?style=flat&label=downloads)](https://github.com/hammad20120/PodBattery/releases)
+[![Release](https://img.shields.io/github/v/release/hammad20120/PodBattery?style=flat)](https://github.com/hammad20120/PodBattery/releases/latest)
+
+### 🤝 Open-source contributions
+
+- [validator.js](https://github.com/validatorjs/validator.js/pull/1778): fixed the Pakistan mobile number check in `isMobilePhone`
+- [Public Lab plots2](https://github.com/publiclab/plots2/pull/10284): made the unfollow button translatable
+- [pure-css-loaders-extended](https://github.com/IOMechs/pure-css-loaders-extended/pull/39): added a Facebook-style loader
+- [game-night](https://github.com/tyler-morales/game-night/pull/41): fixed the Twitter card image path
+
+### 🛠 Tech I use
+
+[![Tech stack](https://skillicons.dev/icons?i=go,ts,js,nodejs,nestjs,nextjs,react,python,cs,docker,gcp&perline=11)](https://skillicons.dev)
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hammad20120&theme=tokyonight)
 
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad20120&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammad20120&exclude_repo=TrafficSigns_Classification_Practice&theme=tokyonight)
-
-
-
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hammad20120&theme=tokyonight&hide_border=true)
 
 </div>
